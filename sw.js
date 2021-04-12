@@ -1,0 +1,1 @@
+importScripts('https://movalioapp.com/sdk-v2/sw.js');
